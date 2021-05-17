@@ -14,10 +14,10 @@ https://www.thingiverse.com/groups/flying-and-ground-vehicles/things
 6D Area Hardware Operation Cosmology Shell:
 https://www.thingiverse.com/thing:4826213
 
-Hexagonal Display (1, 7, 19, N*H): 
+Hexagonal Display (1H, 7H, 19H, N*H): 
 https://www.tinkercad.com/things/2FU6LUPJ0Yf
 
-Hexagonal Display (1, 7, 19, N*H) Trial: 
+Hexagonal Display (1H, 7H, 19H, N*H) Trial: 
 https://www.tinkercad.com/things/egqR2CUChtn
 
 
