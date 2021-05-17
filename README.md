@@ -17,5 +17,9 @@ https://www.thingiverse.com/thing:4826213
 Hexagonal Display (1, 7, 19, N*H): 
 https://www.tinkercad.com/things/2FU6LUPJ0Yf
 
+Hexagonal Display (1, 7, 19, N*H) Trial: 
+https://www.tinkercad.com/things/egqR2CUChtn
+
+
 Dimensions (N!, N2P, 0D, 1D, 2D, 3D, 4D, 5D, 6D, 7D, 8D, 9D, 10D, 11D, 12D, RND, -0D):
 https://www.thingiverse.com/thing:4730415
