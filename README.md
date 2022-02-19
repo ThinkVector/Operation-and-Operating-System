@@ -1,7 +1,7 @@
 # Operation and Operating Systems
 Think Vector (Operation and Operating Systems)
 
-[ CORPORATE WORK FLOW ]
+[ CORPORATE WORK FLOWS ]
 
 Think Vector: 
  Operation and Operating Systems
