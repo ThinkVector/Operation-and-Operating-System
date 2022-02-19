@@ -1,6 +1,8 @@
 # Operation and Operating Systems
 Think Vector (Operation and Operating Systems)
 
+[ CORPORATE WORK FLOW ]
+
 Think Vector: 
  Operation and Operating Systems
 https://github.com/ThinkVector
