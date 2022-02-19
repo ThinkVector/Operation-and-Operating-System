@@ -17,7 +17,7 @@ Hyper Plane Development Studio ( C++ ):
  https://github.com/ferditekin/HyperPlane
 
 Hyper Plane Development Studio ( C++ ): 
- https://github.com/ferditekin/HyperPlane
+ https://github.com/ThinkVector/HyperPlaneDevelopmentStudio
 
 Operation Systems:
  https://www.thingiverse.com/groups/flying-and-ground-vehicles/things
