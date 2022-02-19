@@ -13,11 +13,11 @@ VECTOR:
  Hyper Operating Systems
  https://github.com/ferditekin/VECTOR
 
-Hyper Plane Development Studio ( C++ ):
- https://github.com/ferditekin/HyperPlane
-
 Hyper Plane Development Studio ( C++ ): 
  https://github.com/ThinkVector/HyperPlaneDevelopmentStudio
+ 
+Hyper Plane Development Studio ( C++ ):
+ https://github.com/ferditekin/HyperPlane
 
 Operation Systems:
  https://www.thingiverse.com/groups/flying-and-ground-vehicles/things
