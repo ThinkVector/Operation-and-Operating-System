@@ -1,4 +1,4 @@
-# Operation-and-Operating-System
+# Operation and Operating Systems
 Think Vector (Operation and Operating System)
 
 Operating System:
