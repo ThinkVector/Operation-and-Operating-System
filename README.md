@@ -48,4 +48,4 @@ Health:
  
  
  
- ![vector logos](https://github.com/ThinkVector/OperationandOperatingSystems/blob/main/VECTOR.svg)
+ ![VECTOR](https://github.com/ThinkVector/OperationandOperatingSystems/blob/main/VECTOR.svg)
