@@ -47,4 +47,5 @@ Health:
  https://www.thingiverse.com/thing:5233201
  
  
- https://github.com/ThinkVector/OperationandOperatingSystems/blob/main/VECTOR.svg
+ 
+ ![vector logos](https://github.com/ThinkVector/OperationandOperatingSystems/blob/main/VECTOR.svg)
